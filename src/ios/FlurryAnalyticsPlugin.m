@@ -1,4 +1,4 @@
-#import <Flurry-iOS-SDK/Flurry.h>
+#import <Flurry-iOS-SDK/Flurry/Flurry.h>
 #import "FlurryAnalyticsPlugin.h"
 
 @implementation FlurryAnalyticsPlugin
